@@ -1,0 +1,19 @@
+#number2{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#number4{
+    background-color: rgba(73, 246, 4, 0.6);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.impar{
+    background-color: rgb(241, 130, 130);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.number3{
+    font-size: 24px;
+}
